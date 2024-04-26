@@ -115,3 +115,4 @@ exclude:
     "FAQ.md",
     "vendor",
   ]
+repository: nqmgaming/nqmgaming.github.io
